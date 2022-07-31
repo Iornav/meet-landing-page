@@ -1,5 +1,4 @@
 # meet-landing-page
-# meet-landing-page
 Project Title: Meet landing page
 
 Project Objective:
