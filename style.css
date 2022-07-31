@@ -305,7 +305,8 @@ button.button-2:hover{
     margin-right: auto;
     padding-top: 2%;
     padding-bottom: 1%;
-    width: 100%;
+    max-width: 100%;
+    height:auto;
     text-align: center;
 }
 
